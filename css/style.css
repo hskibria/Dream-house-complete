@@ -1,0 +1,270 @@
+body{
+	margin: 0;
+	padding:0;
+}
+/* header start*/
+
+header{
+	
+}
+.wrapper {
+	width: 100%;
+	overflow:hidden;
+ 
+}
+
+.logo {
+
+	width: 25%;
+
+
+
+}
+.logo img{
+	width: 100%;
+	float: left;
+	padding: 15px 16px;
+
+
+}
+
+.menu {
+	width: 70%;
+	float: right;
+	margin-top:20px; 
+
+
+}
+.menu ul {
+	list-style: none;
+	float: right;
+
+}
+.menu ul li{
+	    float: left;
+	
+}
+.menu ul li a{
+	font-family: sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    color: #65737E;
+     padding: 0px 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+    padding: 0px 38px;
+    display: inline-block;
+
+}
+.menu ul li:last-child a{
+                padding-right:0; 
+
+
+
+            }
+            /* header end*/
+
+
+             /* Banner start*/
+             .banner{
+                background-image:url(../images/home-real-estate-106399.jpg);
+             	background-repeat: no-repeat;
+             	background-size:cover;
+             	background-position: center;
+           
+              min-height: 700px;
+          }
+           
+                       
+
+
+
+             .b_content{
+             	color:white;
+             	width: 50%;
+                margin-top: 130px;
+
+       
+                         
+             	background-color: rgba(11,11,11,.5);
+             }
+             .b_content h1{
+             	font-family: sans-serif;
+             	font-weight:10;
+             	font-size:29px;
+             	color:white;
+             	text-transform: uppercase;
+             	margin:0;
+             	padding-top:30px; 
+
+margin-left:17px;
+    
+
+             }
+
+             .b_content h2{
+             	font-family: sans-serif;
+
+             	font-weight:10;
+             	font-size:29px;
+             	color:white;
+             	text-transform: uppercase;
+             	margin:0;
+             	margin-left: 17px;
+
+             }
+
+             .b_content p{
+             	font-family: sans-serif;
+         	color:white;
+             	margin:0;
+             	line-height: 20px;
+             	margin-left: 17px;
+             }
+             .b_content button{
+             	width: 120px;
+             	height: 29px;
+             	margin-top: 20px;
+             	margin-left:17px; 
+             		font-family: sans-serif;
+             		font-weight: 10;
+             		font-size:12px; 
+             	color:white;
+             	 	background-color: #3F4150;
+             	 	border:0;
+             	 	border-radius: 3px;
+
+
+            
+             }
+ .b_content button:focus{
+ 	outline: 0;
+ }
+
+
+             /* Banner end*/
+
+
+                /*SECTION START*/
+  .service {
+      background-color: white;
+    padding-top: 57px;
+   
+
+}
+.wrapper2{
+    width: 100%;
+    
+
+}
+
+
+
+.single {
+    width: 30%;
+       
+        float: left;
+}
+
+.top {
+}
+
+.t_text{
+
+}
+.t_text h2{
+
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #78787A;
+    margin: 14px 125px;
+}
+
+
+.t_img{
+    width: 60%;
+padding: 0 50px;
+
+}
+.t_img img{
+    width: 100%;
+}
+
+
+
+
+
+
+.bottom {
+}
+.bottom p {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #78787A;
+    margin: 4px 67px;
+    line-height: 20px;
+}
+#hi{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #78787A;
+    margin: 4px 46px;
+    line-height: 20px;
+
+}
+.bottom button{
+     font-family: sans-serif;
+    font-size: 11px;
+    font-weight: 400;
+    color: white;
+    background-color: #;
+    background-color: #314B6E;
+    border-radius: 4px;
+    height: 22px;
+    width: 72px;
+    margin: 40px 121px;
+    border:0;
+
+
+}
+ .bottom button:focus{
+    outline: 0;
+}
+                  /*SECTION END*/
+
+.wrapper {
+    width: 100%;
+}
+
+.top {
+}
+.top p{
+font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #78787A;
+    margin: 39px 67px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.botttom {
+}
+.img{
+        padding: 0 567px;
+    width: 173px;
+}
+
+}
+.botttom  img{
+    width: 100%;
+
+
+
+
+}
+
+
